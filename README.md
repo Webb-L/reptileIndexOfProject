@@ -44,6 +44,7 @@ https://old-releases.ubuntu.com/releases/ubuntu-server/breezy/ubuntu-server-5.10
 ## 参数
 
 ```bash
+python3 main.py
 usage: main.py [-h] [--url URL] [--parentNode PARENTNODE]
                [--startPosition STARTPOSITION]
 
