@@ -63,7 +63,7 @@ https://download.qt.io/archive/qt/6.3/CVE-2018-25032-qtbase-6.3.diff.mirrorlist
 
 + 输出所有目录。
 
-``bash
+```bash
 python3 main.py --url https://download.qt.io/archive/qt/6.3/ --parentNode table --childStartPosition 4 --type dir
 https://download.qt.io/archive/qt/6.3/6.3.1/
 https://download.qt.io/archive/qt/6.3/6.3.1/submodules/
@@ -71,7 +71,7 @@ https://download.qt.io/archive/qt/6.3/6.3.1/single/
 https://download.qt.io/archive/qt/6.3/6.3.0/
 https://download.qt.io/archive/qt/6.3/6.3.0/submodules/
 https://download.qt.io/archive/qt/6.3/6.3.0/single/
-``
+```
 
 ## 参数
 
